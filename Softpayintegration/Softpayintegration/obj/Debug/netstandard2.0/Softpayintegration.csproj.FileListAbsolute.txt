@@ -1,0 +1,14 @@
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\bin\Debug\netstandard2.0\Softpayintegration.deps.json
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\bin\Debug\netstandard2.0\Softpayintegration.dll
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\bin\Debug\netstandard2.0\ref\Softpayintegration.dll
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\bin\Debug\netstandard2.0\Softpayintegration.pdb
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.csprojAssemblyReference.cache
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.AssemblyInfoInputs.cache
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.AssemblyInfo.cs
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.csproj.CoreCompileInputs.cache
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\XamlC.stamp
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.dll
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\ref\Softpayintegration.dll
+D:\pos\Softpayintegration\Softpayintegration\Softpayintegration\obj\Debug\netstandard2.0\Softpayintegration.pdb
